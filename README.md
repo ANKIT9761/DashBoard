@@ -3,7 +3,7 @@
 
 > Here are some of the tools used to build this Project-
 
-1. React
+1. React with Vite
 2. Apex Charts
 3. Framer Motion
 
